@@ -1,6 +1,6 @@
 <p align="center">
     <img src="Resources/Icon.png" alt="Project Icon" width="250" />
-    <br /><br /><br />
+    <br /><br />
 </p>
 
 
