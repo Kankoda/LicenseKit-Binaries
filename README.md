@@ -6,34 +6,36 @@
 
 # LicenseKit Binaries
 
-This repository is used to host release artifacts & dSYMs for [LicenseKit][Repository]. Each release tag matches an SDK version.
+This repository is used to host release artifacts and dSYMs for the [LicenseKit SDK][Repository]. Each tag in this repo matches an SDK version in the [main repository][Repository].
 
 
 ## Website
 
-The [LicenseKit website][Website] has information about LicenseKit, a blog with the latest news and updates, pricing info, etc.
+The [LicenseKit website][Website] has information about the SDK, a blog with the latest news, pricing info, etc.
 
 
-## Project
+## Repository
 
-The [LicenseKit repository][Repository] has a Swift Package that can be used to protect your software with commercial licenses.
+The [LicenseKit repository][Repository] contains the SDK, as well as a demo app that shows how to use it.
+
+
+## Documentation
+
+The [LicenseKit documentation][Documentation] has a getting-started guide, articles, code samples, etc.
+
+
+## Binaries
+
+The [LicenseKit binaries][Binaries] contains the SDK and its releases.
 
 
 ## Contact
 
-Feel free to reach out if you have any questions:
-
-* Website: [kankoda.com/licensekit][Website]
-* E-mail: [info@kankoda.com][Email]
-* Bluesky: [@kankoda.bsky.social][Bluesky]
-* Mastodon: [@kankoda@techhub.social][Mastodon]
+Feel free to [reach out to us][Email] to us at Kankoda if you have any questions about LicenseKit.
 
 
 [Email]: mailto:info@kankoda.com
 [Website]: https://kankoda.com/licensekit
-[Repository]: https://github.com/kankoda/licensekit
-
-[Binaries-Repo]: https://github.com/kankoda/licensekit-binaries/
+[Repository]: https://github.com/Kankoda/LicenseKit
+[Binaries]: https://github.com/Kankoda/LicenseKit-Binaries/
 [Documentation]: https://kankoda.github.io/LicenseKit/documentation/licensekit/
-[Bluesky]: https://bsky.app/profile/kankoda.bsky.social
-[Mastodon]: https://techhub.social/@kankoda
